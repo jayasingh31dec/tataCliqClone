@@ -5,7 +5,7 @@ This project replicates core TataCliq features, including user authentication, p
 
 🔗 Live Demo
 🎥 Project Walkthrough Video:
-Click here to watch on Google Drive
+[Click here to watch on Google Drive](https://drive.google.com/file/d/1E30fOYsFAFgvdklGsx3oKhYdGWUbCJrK/view?usp=sharing)
 
 (This video demonstrates the full user flow: signup/login, browsing products, cart operations, and checkout process.)
 
