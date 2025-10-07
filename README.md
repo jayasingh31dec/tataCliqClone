@@ -3,7 +3,6 @@ A full-stack TataCliq E-commerce Clone built using the MERN (MongoDB, Express.js
 This project replicates core TataCliq features, including user authentication, product listing, cart, order management, and a robust admin dashboard.
 
 
-
 🔗 Live Demo
 🎥 Project Walkthrough Video:
 Click here to watch on Google Drive
